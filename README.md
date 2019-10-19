@@ -1,2 +1,2 @@
-# airline-sentiment-nn
+# Airline Sentiment NN
 Predicting Airline Sentiments with Neural Network
